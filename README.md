@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at DevBoost GmbH<br>👯 I’m looking to collaborate on new projects<br>🤝 I’m looking for new technologies<br>🌱 I’m currently learning everything<br>💬 Ask me about everything :)<br>⚡ Fun fact, explicit is better than implicit
+<img width="15px;" src="https://media.licdn.com/dms/image/C4D0BAQG0YZjx1Ipisg/company-logo_200_200/0/1630562181065/devboost_gmbh_logo?e=1714003200&v=beta&t=RfdVTXIBnBGZBfdF1Wjgh_9bQ4vbD2LWQgEA_lTrP4Y"/> I’m currently working at DevBoost GmbH <br>👯 I’m looking to collaborate on new projects<br>🤝 I’m looking for new technologies<br>🌱 I’m currently learning everything<br>💬 Ask me about everything :)<br>⚡ Fun fact, explicit is better than implicit
 
 
 ## 🌐 Socials:
