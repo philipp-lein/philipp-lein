@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at ... coming soon<br>👯 I’m looking to collaborate on new projects<br>🤝 I’m looking for new technologies<br>🌱 I’m currently learning everything<br>💬 Ask me about everything :)<br>⚡ Fun fact, explicit is better than implicit
+🔭 I’m currently working at DevBoost GmbH<br>👯 I’m looking to collaborate on new projects<br>🤝 I’m looking for new technologies<br>🌱 I’m currently learning everything<br>💬 Ask me about everything :)<br>⚡ Fun fact, explicit is better than implicit
 
 
 ## 🌐 Socials:
