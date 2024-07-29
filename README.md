@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img width="20px;" src="https://avatars.githubusercontent.com/u/703284?s=200&v=4"/> I’m currently working at DevBoost GmbH <br>👯 I’m looking to collaborate on new projects<br>🤝 I’m looking for new technologies<br>🌱 I’m currently learning game development with web technologies<br>💬 Ask me about everything :)<br>⚡ Fun fact, explicit is better than implicit
+<img width="20px;" src="https://avatars.githubusercontent.com/u/703284?s=200&v=4"/> I’m currently working at DevBoost GmbH <br>👯 I’m looking to collaborate on new projects<br>🤝 I’m looking for new technologies<br>🌱 I’m currently learning game development with web technologies<br>💬 Ask me about everything :)<br>⚡ Explicit is better than implicit
 
 
 ## 🌐 Socials:
