@@ -39,16 +39,6 @@ Active projects: [aboutphil.de](https://aboutphil.de) · [gamingbuchclub.com](ht
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=philipp-lein&show_icons=true&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipp-lein&theme=dark&hide_border=true&layout=compact" height="165" />
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=philipp-lein&theme=dark&hide_border=true)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
