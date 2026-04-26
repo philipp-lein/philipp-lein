@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Software engineer at [DevBoost GmbH](https://github.com/devboost-gmbh), building products and tooling that make shipping faster.  
+Software engineer at [DevBoost GmbH](https://devboost.com), building products and tooling that make shipping faster.  
 I run my own set of side projects — from a gaming book club to an MMO — and I'm obsessed with making deployment boring (in a good way).
 
 > ⚡ Explicit is better than implicit.
@@ -17,7 +17,7 @@ uv tool install deploy-your-startup-cli
 startup bootstrap
 ```
 
-Active projects in the factory: `gaming-buch-club` · `my-mmo` · `about-phil` · `hort-website`
+Active projects: [aboutphil.de](https://aboutphil.de) · [gamingbuchclub.com](https://gamingbuchclub.com)
 
 ---
 
