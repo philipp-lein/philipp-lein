@@ -12,11 +12,6 @@ I run my own set of side projects — from a gaming book club to an MMO — and 
 ### [Deploy Your Startup](https://github.com/Deploy-your-Startup)
 An open source CLI + Kubernetes-based deployment framework to bootstrap and ship Django-powered startups — from zero to production.
 
-```bash
-uv tool install deploy-your-startup-cli
-startup bootstrap
-```
-
 Active projects: [aboutphil.de](https://aboutphil.de) · [gamingbuchclub.com](https://gamingbuchclub.com)
 
 ---
